@@ -5,6 +5,7 @@ Code can be found in: [Assets/Scripts/](./Assets/Scripts/) (alongside generated 
 
 This is a short prototype for a game I am now working on in a different engine.
 Initially created for my Games module in University.
+The current state of the game can be found [here](https://github.com/LeonSloma/ProjectGemini_godot).
 
 A short trailer created for the module:
 
